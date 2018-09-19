@@ -1,0 +1,7 @@
+技术:asp.net core +sql server +dapper
+
+ 网页模板:
+	前台:https://github.com/PomeloFoundation/YuukoBlog
+	后台:http://ohpxbzczu.bkt.clouddn.com/admin_jinmei.zip
+	后台内页LayUI
+牛腩博客源码: https://coding.net/u/niunan/p/niunan_blogcore2/git/tree/master
